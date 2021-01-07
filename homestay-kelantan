@@ -1,0 +1,226 @@
+[
+	{ 
+		"name":"Paddy Field View Warisan Bungalow Homestay",
+		"location":"Wakaf Bharu, Kelantan",
+		"type":"bungalow",
+		"numofrooms":"4",
+		"numofbathrooms":"2",
+		"checkinfrom":"1400",
+		"checkoutuntil":"1200",
+		"facilities":[
+			{
+				"wifi":"true",
+				"carpark":"true",
+				"swimmingpool":"false",
+				"airconditioner":"true",
+				"kitchen":"true",
+				"tv":"true",
+				"washingmachine":"true",
+				"fridge":"true",
+				"iron":"true",				
+			},		
+		]			
+	},
+	{ 
+		"name":"Deru Bachok Tiny House 1",
+		"location":"Bachok, Kelantan",
+		"type":"tiny house",
+		"numofrooms":"1",
+		"numofbathrooms":"1",
+		"checkinfrom":"1400",
+		"checkoutuntil":"1200",
+		"facilities":[
+			{
+				"wifi":"false",
+				"carpark":"true",
+				"swimmingpool":"false",
+				"security":"false",
+				"airconditioner":"true",
+				"kitchen":"true",
+				"tv":"true",
+				"washingmachine":"false",
+				"fridge":"false",
+				"iron":"true",				
+			},		
+		]			
+	},	
+	{ 
+		"name":"Ann's Riverfront Studio A88",
+		"location":"Kota Bharu, Kelantan",
+		"type":"studio",
+		"numofrooms":"1",
+		"numofbathrooms":"1",
+		"checkinfrom":"1400",
+		"checkoutuntil":"1200",
+		"facilities":[
+			{
+				"wifi":"false",
+				"carpark":"true",
+				"swimmingpool":"true",
+				"airconditioner":"true",
+				"kitchen":"true",
+				"tv":"true",
+				"washingmachine":"true",
+				"fridge":"true",
+				"iron":"true",				
+			},		
+		]			
+	},
+	{ 
+		"name":"JC Sky River Front",
+		"location":"Kota Bharu, Kelantan",
+		"type":"Condominium",
+		"numofrooms":"3",
+		"numofbathrooms":"2",
+		"checkinfrom":"1400",
+		"checkoutuntil":"1200",
+		"facilities":[
+			{
+				"wifi":"true",
+				"carpark":"true",
+				"swimmingpool":"true",
+				"airconditioner":"true",
+				"kitchen":"true",
+				"tv":"true",
+				"washingmachine":"true",
+				"fridge":"true",
+				"iron":"true",				
+			},		
+		]			
+	},
+	{ 
+		"name":"Comfy Studio @ Kota Bharu City Point",
+		"location":"Kota Bharu, Kelantan",
+		"type":studio"",
+		"numofrooms":"1",
+		"numofbathrooms":"1",
+		"checkinfrom":"1400",
+		"checkoutuntil":"1200",
+		"pricepernight":"",
+		"facilities":[
+			{
+				"wifi":"true",
+				"carpark":"true",
+				"swimmingpool":"false",
+				"airconditioner":"true",
+				"kitchen":"true",
+				"tv":"true",
+				"washingmachine":"false",
+				"fridge":"true",
+				"iron":"true",				
+			},		
+		]			
+	},
+	{ 
+		"name":"Casa Hijau",
+		"location":"Kota Bharu, Kelantan",
+		"type":"bungalow",
+		"numofrooms":"3",
+		"numofbathrooms":"2",
+		"checkinfrom":"1400",
+		"checkoutuntil":"1200",
+		"facilities":[
+			{
+				"wifi":"true",
+				"carpark":"true",
+				"swimmingpool":"false",
+				"airconditioner":"true",
+				"kitchen":"true",
+				"tv":"true",
+				"washingmachine":"true",
+				"fridge":"true",
+				"iron":"true",				
+			},		
+		]			
+	},
+	{ 
+		"name":"Vila Rose",
+		"location":"Kota Bharu, Kelantan",
+		"type":"bungalow",
+		"numofrooms":"2",
+		"numofbathrooms":"2",
+		"checkinfrom":"1400",
+		"checkoutuntil":"1200",
+		"facilities":[
+			{
+				"wifi":"true",
+				"carpark":"true",
+				"swimmingpool":"false",
+				"airconditioner":"true",
+				"kitchen":"true",
+				"tv":"true",
+				"washingmachine":"true",
+				"fridge":"true",
+				"iron":"true",				
+			},		
+		]			
+	},
+	{ 
+		"name":"Berisville Guest House",
+		"location":"Kota Bharu, Kelantan",
+		"type":"bungalow",
+		"numofrooms":"4",
+		"numofbathrooms":"3",
+		"checkinfrom":"1400",
+		"checkoutuntil":"1200",
+		"facilities":[
+			{
+				"wifi":"true",
+				"carpark":"true",
+				"swimmingpool":"",
+				"airconditioner":"true",
+				"kitchen":"true",
+				"tv":"true",
+				"washingmachine":"true",
+				"fridge":"true",
+				"iron":"true",				
+			},		
+		]			
+	},
+	{ 
+		"name":"Qais Homestay ",
+		"location":"Wakaf Che Yeh, Kota Bharu
+󰀄",
+		"type":"condominium",
+		"numofrooms":"3",
+		"numofbathrooms":"2",
+		"checkinfrom":"1400",
+		"checkoutuntil":"1200",
+		"facilities":[
+			{
+				"wifi":"false",
+				"carpark":"true",
+				"swimmingpool":"false",
+				"airconditioner":"true",
+				"kitchen":"true",
+				"tv":"true",
+				"washingmachine":"true",
+				"fridge":"true",
+				"iron":"true",				
+			},		
+		]			
+	},
+	{ 
+		"name":"Nuha Studio Stay",
+		"location":"Kota Bharu, Kelantan",
+		"type":"studio",
+		"numofrooms":"1",
+		"numofbathrooms":"1",
+		"checkinfrom":"1400",
+		"checkoutuntil":"1200",
+		"facilities":[
+			{
+				"wifi":"true",
+				"carpark":"true",
+				"swimmingpool":"false",
+				"airconditioner":"true",
+				"kitchen":"true",
+				"tv":"true",
+				"washingmachine":"true",
+				"fridge":"true",
+				"iron":"true",				
+			},		
+		]			
+	},
+]
+
